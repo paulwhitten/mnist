@@ -1,9 +1,8 @@
 # mnist
 
-This repo contains MNIST data and utilities.
+This repo contains MNIST utilities.
 
 The origin of MNIST is [Yann LeCun's site](https://yann.lecun.com/exdb/mnist/)
-which is often unavailable.
 
 
 ## use
